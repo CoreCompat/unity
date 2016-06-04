@@ -1,7 +1,7 @@
 ﻿{
-  "version": "1.0.0-beta3",
-  "description": "Unity Class Library",
-  "authors": [ "AgileSight" ],
+  "version": "4.0.1-*",
+  "description": "The Unity Application Block (Unity) is a lightweight extensible dependency injection container with support for constructor, property, and method call injection. It facilitates loosely-coupled design. Declarative configuration and registration by convention are supported on selected platforms.",
+  "authors": [ "Microsoft" ],
   "tags": [ "" ],
   "projectUrl": "",
   "licenseUrl": "",
